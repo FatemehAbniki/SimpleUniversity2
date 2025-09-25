@@ -1,0 +1,3 @@
+Fizik,444
+Math,111
+Chemistry,443
